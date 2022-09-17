@@ -1,0 +1,3 @@
+https://note.com/uunin/n/n725ae4601264  
+AUTOMATIC1111/stable-diffusion-webui-feature-showcase
+でMikako Method style を使うための embeddings データです。
